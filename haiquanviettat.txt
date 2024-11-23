@@ -1,0 +1,295 @@
+DHHXNKNBHN	Chi cục HQ CK Sân bay quốc tế Nội Bài								
+DCPNNBHN	Chi cục HQ CK Sân bay quốc tế Nội Bài								
+DHHNNBHN	Chi cục HQ CK Sân bay quốc tế Nội Bài								
+DHLXKNBHN	Chi cục HQ CK Sân bay quốc tế Nội Bài								
+DHLNKNBHN	Chi cục HQ CK Sân bay quốc tế Nội Bài								
+YENBAIHN	Chi cục HQ Yên Bái								
+MYDINHBDHN	Chi cục HQ Bưu Điện TP Hà Nội								
+FEDEXBDHN	Chi cục HQ Bưu Điện TP Hà Nội								
+UPSBDHN	Chi cục HQ Bưu Điện TP Hà Nội								
+CCHQCPNHN	Chi cục HQ chuyển phát nhanh HN								
+CCHQCPNHN	Chi cục HQ chuyển phát nhanh HN								
+DNVBHNHN	Chi cục HQ Bắc Hà Nội								
+DHKBHNHN	Chi cục HQ Bắc Hà Nội								
+DCPNBHNHN	Chi cục HQ Bắc Hà Nội								
+GIATHUYHN	Chi cục HQ Gia Thụy								
+DNVHTHN	Chi cục HQ Hòa Lạc								
+CNCHTHN	Chi cục HQ Hòa Lạc								
+BTLONGHN	Chi cục HQ KCN Bắc Thăng Long								
+VIETTRIHN	Chi cục HQ Phú Thọ								
+HQQLDTGCHN	Chi cục HQ Quản lý hàng đầu tư - gia công								
+CCHQHBHN	Chi cục HQ Hòa Bình								
+VINHPHUCHN	Chi cục HQ Vĩnh Phúc								
+GAYVIENHN	Chi cục HQ Ga đường sắt quốc tế Yên Viên								
+CCHQBHN	Chi cục HQ Bắc Hà Nội								
+CCHQCKTSN	Chi cục HQ CK Sân bay Quốc tế Tân Sơn Nhất								
+SCSCTSNHCM	Chi cục HQ CK Sân bay Quốc tế Tân Sơn Nhất								
+CSGONKVII	Chi cục HQ CK Cảng Sài Gòn KV II								
+CSGONKVII	Chi cục HQ CK Cảng Sài Gòn KV II								
+CSGONKVI	Chi cục HQ CK Cảng Sài Gòn KV I								
+CSGONKVI	Chi cục HQ CK Cảng Sài Gòn KV I								
+CSGONKVI	Chi cục HQ CK Cảng Sài Gòn KV I								
+CHPHUOCHCM	Chi cục HQ CK Cảng Hiệp Phước								
+CHPHUOCHCM	Chi cục HQ CK Cảng Hiệp Phước								
+CTCANGHCM	Chi cục HQ CK Tân Cảng								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+CPNHANHHCM	Chi cục HQ Chuyển phát nhanh								
+LTILTHCM	Chi cục HQ KCX Linh Trung								
+LTILTHCM	Chi cục HQ KCX Linh Trung								
+LTIILTHCM	Chi cục HQ KCX Linh Trung								
+CCCNCHCM	Chi cục HQ Khu Công nghệ cao								
+CCCNCHCM	Chi cục HQ Khu Công nghệ cao								
+CCCNCHCM	Chi cục HQ Khu Công nghệ cao								
+CBNSGKVIII	Chi cục HQ CK Cảng Sài Gòn KV III								
+GSXDKVIII	Chi cục HQ CK Cảng Sài Gòn KV III								
+CVICTKVIII	Chi cục HQ CK Cảng Sài Gòn KV III								
+CCSGKVIV	Chi cục HQ CK Cảng Sài Gòn KV IV								
+CCSGKVIV	Chi cục HQ CK Cảng Sài Gòn KV IV								
+CCHQDTHCM	Chi cục HQ Quản lý hàng đầu tư								
+CCHQDTHCM	Chi cục HQ Quản lý hàng đầu tư								
+CCHQGCHCM	Chi cục HQ Quản lý hàng gia công								
+CCHQGCHCM	Chi cục HQ Quản lý hàng gia công								
+TTHUANHCM	Chi cục HQ KCX Tân Thuận								
+CANGHPKVI	Chi cục HQ CK cảng Hải Phòng KV I								
+THAIBINHHP	Chi cục HQ Thái Bình								
+CANGHPKVII	Chi cục HQ CK cảng Hải Phòng KV II								
+CDINHVUHP	Chi cục HQ CK Cảng Đình Vũ								
+KCXKCNHP	Chi cục HQ KCX và KCN								
+DTGCHP	Chi cục HQ Quản lý hàng đầu tư - gia công								
+DTGCHP	Chi cục HQ Quản lý hàng đầu tư - gia công								
+HAIDUONGHP	Chi cục HQ Hải Dương								
+HUNGYENHP	Chi cục HQ Hưng Yên								
+CHPKVIII	Chi cục HQ CK cảng Hải Phòng KV III								
+CHPKVIII	Chi cục HQ CK cảng Hải Phòng KV III								
+TTHUYHG	Chi cục HQ CK Thanh Thủy								
+XINMANHG	Chi cục HQ CK Xín Mần								
+PHOBANGHG	Chi cục HQ CK Phó Bảng								
+SAMPUNHG	Chi cục HQ CK Săm Pun								
+TQUANGHG	Chi cục HQ Tuyên Quang								
+DNVTLCB	Chi cục HQ CK Tà Lùng								
+DNV2TLCB	Chi cục HQ CK Tà Lùng								
+TRALINHCB	Chi cục HQ CK Trà Lĩnh								
+SOCGIANGCB	Chi cục HQ CK Sóc Giang								
+POPEOCB	Chi cục HQ CK Pò Peo								
+CCLVCBANG	Chi cục HQ CK Lý Vạn								
+DLVBHCBANG	Chi cục HQ CK Lý Vạn								
+BACKANCB	Chi cục HQ Bắc Kạn								
+DNVTTRGDB	Chi cục HQ CK Quốc tế Tây Trang								
+DHPUOCTTDB	Chi cục HQ CK Quốc tế Tây Trang								
+LONGSAPDB	Chi cục HQ CK Lóng Sập								
+CKHUONGDB	Chi cục HQ CK Chiềng Khương								
+HQSONLADB	Chi cục HQ Sơn La								
+NACAISLDB	Chi cục HQ Sơn La								
+DNVMLTDB	Chi cục HQ CK Ma Lu Thàng								
+DPOTOMLTDB	Chi cục HQ CK Ma Lu Thàng								
+CCCKLAOCAI	Chi cục HQ CK Quốc tế Lào Cai								
+CCCKLAOCAI	Chi cục HQ CK Quốc tế Lào Cai								
+M.KHUONGLC	Chi cục HQ CK Mường Khương								
+BATXATLC	Chi cục HQ CK Bát Xát								
+DNVDSATLC	Chi cục HQ Đường sắt LVQT Lào Cai								
+VNLDSATLC	Chi cục HQ Đường sắt LVQT Lào Cai								
+DNVHNLSON	Chi cục HQ CK Hữu Nghị								
+DNVCSLSON	Chi cục HQ CK Hữu Nghị								
+DNVPNLSON	Chi cục HQ CK Hữu Nghị								
+HUUNGHILS	Chi cục HQ CK Hữu Nghị								
+HUUNGHILS	Chi cục HQ CK Hữu Nghị								
+HUUNGHILS	Chi cục HQ CK Hữu Nghị								
+HUUNGHILS	Chi cục HQ CK Hữu Nghị								
+HUUNGHILS	Chi cục HQ CK Hữu Nghị								
+CHIMALS	Chi cục HQ CK Chi Ma								
+CHIMALS	Chi cục HQ CK Chi Ma								
+COCNAMLS	Chi cục HQ Cốc Nam								
+TANTHANHLS	Chi cục HQ Tân Thanh								
+TANTHANHLS	Chi cục HQ Tân Thanh								
+TANTHANHLS	Chi cục HQ Tân Thanh								
+TANTHANHLS	Chi cục HQ Tân Thanh								
+NHINHTTLS	Chi cục HQ Tân Thanh								
+NNUATTLS	Chi cục HQ Tân Thanh								
+BNGHITTLS	Chi cục HQ Tân Thanh								
+DNVTTLS	Chi cục HQ Tân Thanh								
+DONGDANGLS	Chi cục HQ Ga Đồng Đăng								
+DKCNYPBN	Chi cục HQ Bắc Ninh								
+DKCNQVBN	Chi cục HQ Bắc Ninh								
+DNVCCHQBN	Chi cục HQ Bắc Ninh								
+DNVCCHQBN	Chi cục HQ Bắc Ninh								
+DNVCCHQBN	Chi cục HQ Bắc Ninh								
+DNVTNBNINH	Chi cục HQ Thái Nguyên								
+YBINHTNBN	Chi cục HQ Thái Nguyên								
+BACGIANGBN	Chi cục HQ Quản lý các KCN Bắc Giang								
+BACGIANGBN	Chi cục HQ Quản lý các KCN Bắc Giang								
+BACGIANGBN	Chi cục HQ Quản lý các KCN Bắc Giang								
+CCHQKCNYP	Chi cục HQ Quản lý các KCN Yên Phong								
+TIENSONBN	Chi cục HQ Cảng nội địa Tiên Sơn								
+BLUANMCQN	Chi cục HQ CK Móng Cái								
+KLONGMCQN	Chi cục HQ CK Móng Cái								
+ICDTHDAT	Chi cục HQ CK Móng Cái								
+MONGCAIQN	Chi cục HQ CK Móng Cái								
+HOANHMOQN	Chi cục HQ CK Hoành Mô								
+PSINHQN	Chi cục HQ Bắc Phong Sinh								
+CAILANQN	Chi cục HQ CK Cảng Cái Lân								
+VANGIAQN	Chi cục HQ CK Cảng Vạn Gia								
+HONGAIQN	Chi cục HQ CK Cảng Hòn Gai								
+CAMPHAQN	Chi cục HQ CK Cảng Cẩm Phả								
+DNVNMEOTH	Chi cục HQ CK Quốc tế Na Mèo								
+DTTNMEOTH	Chi cục HQ CK Quốc tế Na Mèo								
+CTHANHHOA	Chi cục HQ CK Cảng Thanh Hóa								
+CNGSONTH	Chi cục HQ CK Cảng Nghi Sơn								
+HANAMTH	Chi cục HQ Quản lý các KCN Hà Nam								
+NINHBINHTH	Chi cục HQ Ninh Bình								
+NINHBINHTH	Chi cục HQ Ninh Bình								
+NAMDINHTH	Chi cục HQ Nam Định								
+CCHQHANAM	Chi cục HQ Hà Nam								
+CCHQNBINH	Chi cục HQ Ninh Bình								
+CCHQNBINH	Chi cục HQ Ninh Bình								
+CCHQNDINH	Chi cục HQ Nam Định								
+NAMCANNA	Chi cục HQ CK Quốc tế Nậm Cắn								
+TTHUYNA	Chi cục HQ CK Thanh Thủy								
+CANGNGHEAN	Chi cục HQ CK Cảng								
+VINHNA	Chi cục HQ Vinh								
+CAUTREOHT	Chi cục HQ CK Quốc tế Cầu Treo								
+HONGLINHHT	Chi cục HQ Hồng Lĩnh								
+KKTCTREOHT	Chi cục HQ khu kinh tế CK Cầu Treo								
+CXHAIHT	Chi cục HQ CK Cảng Xuân Hải								
+DNVVANGHT	Chi cục HQ CK Cảng Vũng Áng								
+SDUONGVAHT	Chi cục HQ CK Cảng Vũng Áng								
+CHALOQB	Chi cục HQ CK Cha Lo								
+CAROONGQB	Chi cục HQ CK Cà Roòng								
+CHONLAQB	Chi cục HQ CK Cảng Hòn La								
+CHONLAQB	Chi cục HQ CK Cảng Hòn La								
+CHONLAQB	Chi cục HQ CK Cảng Hòn La								
+CHONLAQB	Chi cục HQ CK Cảng Hòn La								
+CHONLAHLQB	Chi cục HQ CK Cảng Hòn La								
+DHOIHLQB	Chi cục HQ CK Cảng Hòn La								
+CGIANHHLQB	Chi cục HQ CK Cảng Hòn La								
+LAOBAOQT	Chi cục HQ CK Lao Bảo								
+LALAYQT	Chi cục HQ CK La Lay								
+KTMAILBQT	Chi cục HQ Khu thương mại Lao Bảo								
+CCUAVIETQT	Chi cục HQ CK Cảng Cửa Việt								
+KSOATHQQT	Đội Kiẻm soát HQ Quảng Trị								
+ADOTTTH	Chi cục HQ CK A Đớt								
+ADOTTTH	Chi cục HQ CK A Đớt								
+CTANTTH	Chi cục HQ CK Cảng Thuận An								
+CCMAYTTH	Chi cục HQ CK Cảng Chân Mây								
+THUYANTTH	Chi cục HQ Thủy An								
+SBQTDN	Chi cục HQ CK Sân bay Quốc tế Đà Nẵng								
+SBQTDN	Chi cục HQ CK Sân bay Quốc tế Đà Nẵng								
+DTGCDANANG	Chi cục HQ Quản lý hàng đầu tư - gia công								
+CANGDANANG	Chi cục HQ CK Cảng Đà Nẵng								
+HKHANHDN	Chi cục HQ KCN Hòa Khánh - Liên Chiểu								
+KCNDN	Chi cục HQ KCN Đà Nẵng								
+CDQUATQN	Chi cục HQ CK Cảng Dung Quất								
+KCNQN	Chi cục HQ các KCN Quảng Ngãi								
+QUINHONBD	Chi cục HQ CK Cảng Qui Nhơn								
+PHUYENBD	Chi cục HQ Phú Yên								
+DNVTHLTGL	Chi cục HQ CK Lệ Thanh								
+DTTLTGL	Chi cục HQ CK Lệ Thanh								
+BOYGL	Chi cục HQ CK Bờ Y								
+KONTUMGL	Chi cục HQ Kon Tum								
+DNVIBRDL	Chi cục HQ CK BupRăng								
+BMTHUOTDL	Chi cục HQ Buôn Mê Thuột								
+DNVDLATDL	Chi cục HQ Đà Lạt								
+CCHQCKSBCR	Chi cục HQ CK sân bay quốc tế Cam Ranh								
+NTHUANKH	Chi cục HQ Ninh Thuận								
+NHATRANGKH	Chi cục HQ CK Cảng Nha Trang								
+CAMRANHKH	Chi cục HQ CK Cảng Cam Ranh								
+VANPHONGKH	Chi cục HQ Vân Phong								
+CTHOPBD	Chi cục HQ CK Cảng tổng hợp Bình Dương								
+SONGTHANBD	Chi cục HQ Sóng Thần								
+DNVCCMPBD	Chi cục HQ KCN Mỹ Phước								
+DKLHCCMPBD	Chi cục HQ KCN Mỹ Phước								
+DTDCCMPBD	Chi cục HQ KCN Mỹ Phước								
+DBBCCHQMP	Chi cục HQ KCN Mỹ Phước								
+KCNSTHANBD	Chi cục HQ KCN Sóng Thần								
+KCNVNSGBD	Chi cục HQ KCN Việt Nam - Singapore								
+VHUONGBD	Chi cục HQ KCN Việt Hương								
+NGOAIKCNBD	Chi cục HQ Quản lý hàng hóa XNK ngoài KCN								
+CCHQTDMOT	Chi cục HQ Thủ Dầu Một								
+DNVMBAITN	Chi cục HQ CK Mộc Bài								
+KTMCNMBTN	Chi cục HQ CK Mộc Bài								
+PHUOCTANTN	Chi cục HQ CK Phước Tân								
+KATUMTN	Chi cục HQ CK Kà Tum								
+DNVXAMATTN	Chi cục HQ CK Xa Mát								
+DCRXAMATTN	Chi cục HQ CK Xa Mát								
+DNVTBANGTN	Chi cục HQ KCN Trảng Bàng								
+PDONGTBTN	Chi cục HQ KCN Trảng Bàng								
+DNVCCLTDN	Chi cục HQ Long Thành								
+CCHQCKCDNA	Chi cục HQ CK Cảng Đồng Nai								
+NV3CCCKCDN	Chi cục HQ CK Cảng Đồng Nai								
+NV2CCCKCDN	Chi cục HQ CK Cảng Đồng Nai								
+DNV2CCLTDN	Chi cục HQ Long Thành								
+NV1CCCKCDN	Chi cục HQ CK Cảng Đồng Nai								
+DNV1CCLTDN	Chi cục HQ Long Thành								
+DNVLBTDN	Chi cục HQ Long Bình Tân								
+DNV2LBTDN	Chi cục HQ Long Bình Tân								
+BIENHOADN	Chi cục HQ Biên Hoà								
+BIENHOADN	Chi cục HQ Biên Hoà								
+TNHATDN	Chi cục HQ Thống Nhất								
+NTRACHDN	Chi cục HQ Nhơn Trạch								
+NTRACHDN	Chi cục HQ Nhơn Trạch								
+BTHUANDN	Chi cục HQ CK Cảng Bình Thuận								
+KCXLBINHDN	Chi cục HQ KCX Long Bình								
+MQTAYLA	Chi cục HQ CK Mỹ Quý Tây								
+BINHHIEPLA	Chi cục HQ CK Quốc tế Bình Hiệp								
+HUNGDIENLA	Chi cục HQ Hưng Điền								
+BENTRELA	Chi cục HQ Bến Tre								
+DUCHOALA	Chi cục HQ Đức Hòa								
+CCHQBLLA	Chi cục HQ Bến Lức								
+CCHQBLLA	Chi cục HQ Bến Lức								
+MYTHOLA	Chi cục HQ CK Cảng Mỹ Tho								
+MYTHOLA	Chi cục HQ CK Cảng Mỹ Tho								
+LHAUBLLA	Chi cục HQ Bến Lức								
+DTTBLLA	Chi cục HQ Bến Lức								
+THPHUOCDT	Chi cục HQ CK Thường Phước								
+SOTHUONGDT	Chi cục HQ Sở Thượng								
+THBINHDT	Chi cục HQ Thông Bình								
+DINHBADT	Chi cục HQ CK Dinh Bà								
+CAOLANHCDT	Chi cục HQ CK Cảng Đồng Tháp								
+SADECCDT	Chi cục HQ CK Cảng Đồng Tháp								
+TINHBIENAG	Chi cục HQ CK Tịnh Biên								
+HOIDONGAG	Chi cục HQ Vĩnh Hội Đông								
+VXUONGAG	Chi cục HQ CK Vĩnh Xương								
+BACDAIAG	Chi cục HQ Bắc Đai								
+KBINHAG	Chi cục HQ Khánh Bình								
+CMYTHOIAG	Chi cục HQ Cảng Mỹ Thới								
+CCATLOVT	Chi cục HQ Cảng Cát Lở								
+KNQPMVTAU	Chi cục HQ CK Cảng Phú Mỹ								
+PSAPMVTAU	Chi cục HQ CK Cảng Phú Mỹ								
+CSANBAYVT	Chi cục HQ CK Cảng - Sân bay Vũng Tàu								
+CONDAOVT	Chi cục HQ Côn Đảo								
+CCAIMEPVT	Chi cục HQ CK cảng Cái Mép								
+HATIENKG	Chi cục HQ CK Quốc Tế Hà Tiên								
+RACHGIAKG	Chi cục Hải quan Rạch Giá								
+GTHANHKG	Chi cục HQ CK Quốc Tế Hà Tiên								
+CHCHONGKG	Chi cục HQ CK Quốc Tế Hà Tiên								
+PHUQUOCKG	Chi cục HQ Phú Quốc								
+CANGCANTHO	Chi cục HQ CK Cảng Cần Thơ								
+VINHLONGCT	Chi cục HQ CK Vĩnh Long								
+CCHQHGCT	Chi cục HQ Hậu Giang								
+TRAVINHCT	Chi cục HQ CK Cảng Trà Vinh								
+TAYDOCT	Chi cục HQ Tây Đô								
+SOCTRANGCT	Chi cục HQ Sóc Trăng								
+CNAMCANCM	Chi cục HQ CK Cảng Năm Căn								
+BACLIEUCM	Chi cục HQ Bạc Liêu								
+CNAMCANCM	Chi cục HQ CK Cảng Năm Căn								
+NAMGIANGQN	Chi cục HQ CK Nam Giang								
+DNAMDNGCQN	Chi cục HQ KCN Điện Nam - Điện Ngọc								
+DNAMDNGCQN	Chi cục HQ KCN Điện Nam - Điện Ngọc								
+KYHAQN	Chi cục HQ CK Cảng Kỳ Hà								
+HOALUBP	Chi cục HQ CK Quốc tế Hoa Lư								
+HOALUBP	Chi cục HQ CK Quốc tế Hoa Lư								
+HDIEUBP	Chi cục HQ CK Hoàng Diệu								
+HDIEUBP	Chi cục HQ CK Hoàng Diệu								
+CCHQLTHINH	Chi Cục HQ Cửa khẩu Lộc Thịnh								
+CTHANHBP	Chi cục HQ Chơn Thành								
+CTHANHBP	Chi cục HQ Chơn Thành							

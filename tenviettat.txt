@@ -1,0 +1,274 @@
+VN	Việt Nam
+AF	Afghanistan
+IE	Ailen (Ireland)
+DZ	Algeria
+VI	Amer.Virgin Is.
+AL	An Ba Ni
+AD	Andorran
+AO	Angola
+AI	Anguilla
+GB	Anh
+AQ	Antarctica
+AG	Antigua/Barbuda
+AR	Argentina
+AM	Armenia
+AW	Aruba
+AZ	Azerbaijan
+AT	Áo
+IN	Ấn Độ
+PL	Ba Lan
+BS	Bahamas
+BH	Bahrain
+FQ	Baker Island
+BD	Bangladesh
+BB	Barbados
+BY	Belarus
+BZ	Belize
+BJ	Benin
+BM	Bermuda
+BT	Bhutan
+BL	Blue
+BO	Bolivia
+BA	Bosnia-Herz.
+BW	Botswana
+BV	Bouvet Islands
+BR	Brazil
+IO	Brit.Ind.Oc.Ter
+VG	Brit.Virgin Is.
+BN	Brunei Daruss.
+BG	Bun Ga Ri
+BF	Burkina Faso
+MM	Burma
+BI	Burundi
+KP	Bắc Triều Tiên
+BE	Bỉ
+PT	Bồ Đào Nha
+CA	Ca na da
+CM	Cameroon
+CV	Cape Verde
+CF	CAR
+KY	Cayman Islands
+TD	Chad
+CP	Channel Islands
+CL	Chile
+KT	Christmas Islan
+CX	Christmas Islnd
+IP	Clipperton Isla
+CC	Coconut Islands
+CO	Columbia
+KM	Comoros
+CK	Cook Islands
+VP	Corsica
+CR	Costa Rica
+CI	Cote d'Ivoire
+CU	Cuba
+CY	Cyprus
+KH	Cămpuchia
+CD	Dem. Rep. Congo
+DJ	Djibouti
+DM	Dominica
+DO	Dominican Rep.
+AN	Dutch Antilles
+DK	Đan Mạch
+TW	Đài Loan
+DE	Đức
+TL	East Timor
+TP	East Timor
+EC	Ecuador
+EG	Egypt
+SV	El Salvador
+GQ	Equatorial Guin
+ER	Eritrea
+EE	Estonia
+ET	Ethiopia
+EU	European Union
+FK	Falkland Islnds
+FO	Faroe Islands
+FJ	Fiji
+FI	Finland
+FX	France, Metropo
+PF	Frenc.Polynesia
+GF	French Guayana
+TF	French S.Territ
+FS	French Southern
+GA	Gabon
+GM	Gambia
+GZ	Gaza Strip
+GE	Georgia
+GH	Ghana
+GI	Gibraltar
+GO	Glorioso Island
+GR	Greece
+GL	Greenland
+GD	Grenada
+GP	Guadeloupe
+GU	Guam
+GT	Guatemala
+GK	Guernsey
+GN	Guinea
+GW	Guinea-Bissau
+GY	Guyana
+HT	Haiti
+HM	Heard/McDon.Isl
+US	Hoa kỳ
+HN	Honduras
+HK	Hong Kong
+HQ	Howland Island
+HU	Hung ga ri
+NL	Hà Lan
+KR	Hàn Quốc
+IT	I ta li a
+IS	Iceland
+ID	Indonesia
+IR	Iran
+IQ	Iraq
+IM	Isle of Man
+IL	Israel
+JM	Jamaica
+JN	Jan Mayen
+JA	Japan Ryukyu
+DQ	Jarvis Island
+JE	Jersey
+JQ	Johnston Atoll
+JO	Jordan
+JU	Juan de Nova Is
+KZ	Kazakhstan
+KE	Kenya
+KQ	Kingman Reef
+KI	Kiribati
+KW	Kuwait
+KG	Kyrgyzstan
+LV	Latvia
+LB	Lebanon
+LS	Lesotho
+LR	Liberia
+LY	LiBi
+LI	Liechtenstein
+LT	Lithuania
+LU	Luxembourg
+LA	Lào
+MO	Macau
+MK	Macedonia
+MG	Madagascar
+MW	Malawi
+MY	Malaysia
+MV	Maldives
+ML	Mali
+MT	Malta
+MH	Marshall Islnds
+MQ	Martinique
+MR	Mauretania
+MU	Mauritius
+YT	Mayotte
+MX	Mexico
+FM	Micronesia
+UM	Minor Outl.Isl.
+MD	Moldova
+MC	Monaco
+ME	Montenegro
+MS	Montserrat
+MA	Morocco
+MZ	Mozambique
+MN	Mông Cổ
+MP	N.Mariana Islnd
+HR	Nam Tư
+NA	Namibia
+NT	NATO
+NR	Nauru
+BQ	Navassa Island
+NP	Nepal
+NC	New Caledonia
+NZ	New Zealand
+RU	Nga
+JP	Nhật
+NI	Nicaragua
+NE	Niger
+NG	Nigeria
+NU	Niue
+NF	Norfolk Islands
+NO	Norway
+OM	Oman
+OR	Orange
+OC	Other Country
+PK	Pakistan
+PW	Palau
+PS	Palestine
+LQ	Palmyra Atoll
+PA	Panama
+PG	Pap. New Guinea
+PY	Paraguay
+PE	Peru
+PH	Philippin
+FR	Pháp
+PN	Pitcairn Islnds
+PR	Puerto Rico
+QA	Qatar
+CG	Rep.of Congo
+RE	Reunion
+RO	Ru Ma Ni
+RW	Rwanda
+GS	S. Sandwich Ins
+ST	S.Tome,Principe
+SH	Saint Helena
+WS	Samoa
+AS	Samoa, America
+SM	San Marino
+SA	Saudi Arabia
+SN	Senegal
+RS	Serbia
+YU	Serbia Mtnegro
+CS	Serbia/Monten.
+SC	Seychelles
+SL	Sierra Leone
+SG	Singapore
+SK	Slovakia
+SI	Slovenia
+SB	Solomon Islands
+SO	Somalia
+ZA	South Africa
+LK	Sri Lanka
+KN	St Kitts Nevis
+LC	St. Lucia
+VC	St. Vincent
+PM	St.Pier,Miquel.
+SD	Sudan
+SR	Suriname
+SJ	Svalbard
+SZ	Swaziland
+CH	Switzerland
+SY	Syria
+CZ	Séc
+TJ	Tajikistan
+TZ	Tanzania
+TH	Thái Lan
+SE	Thụy Điển
+TG	Togo
+TK	Tokelau Islands
+TO	Tonga
+TT	Trinidad,Tobago
+TE	Tromelin Island
+CN	Trung Quốc
+TN	Tunisia
+TR	Turkey
+TM	Turkmenistan
+TC	Turksh Caicosin
+TV	Tuvalu
+ES	Tây Ban Nha
+UG	Uganda
+UA	Ukraine
+UE	United Arab Emi
+UN	United Nations
+UC	Unknown Country
+UY	Uruguay
+AE	Utd.Arab Emir.
+UZ	Uzbekistan
+AU	Úc
+VU	Vanuatu
+VA	Vatican City
+VE	Venezuela
+WF	Wallis,Futuna
+EH	West Sahara
+YE	Yemen
+ZM	Zambia
+ZW	Zimbabwe
+ZZ	Khác
